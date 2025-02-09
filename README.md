@@ -1,4 +1,4 @@
-Sure! Here's a README section for your C++ Hybrid Calculator project:
+C++ Hybrid Calculator project:
 
 
 ---
